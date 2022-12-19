@@ -3,7 +3,7 @@ Hi, I’m Youssef Mohamed👋
 
 I’m interested in Robotics and Embedded Systems 🤖
 
-I’m currently learning Self-Driving cars 🚗
+I’m currently enrolled in Self-Driving cars internship 🚗
 
 You can reach me via my email: ymohamed9880@gmail.com 📫 
 
